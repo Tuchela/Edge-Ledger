@@ -9,7 +9,7 @@
 
 ### DEMO LINK
 
-[Tuchela-s-portfolio](exmaple.com)
+[Tuchela-s-portfolio](https://tuchela.github.io/Edge-Ledger/)
 
 ### Author
 
